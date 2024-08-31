@@ -1,0 +1,10 @@
+base64
+requests
+re
+pytesseract
+urllib3
+random
+string
+time
+requests-toolbelt
+rich
